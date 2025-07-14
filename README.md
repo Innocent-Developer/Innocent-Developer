@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dev Abubakkar Sajid</h1>
+<h1 align="center">Hi 👋, I'm Abubakkar Sajid</h1>
 <h3 align="center">🚀 FULL STACK DEVELOPER | MERN Stack | Web App Specialist</h3>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 📫 **Connect With Me**
 
-- Email: `your.email@example.com`
+- Email: `abubakkarsajid4@gmail.com`
 - LinkedIn: LinkedIn: [linkedin.com/in/mughal-abubakkar]([https://linkedin.com/in/mughal-abubakkar](https://www.linkedin.com/in/mughal-abubakkar))
-- Portfolio: [code-xa]([https://yourwebsite.com](http://code-xa.web.app/))
+- Portfolio: [code-xa]([code-xa.web.app](http://code-xa.web.app/))
 
