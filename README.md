@@ -27,6 +27,6 @@
 📫 **Connect With Me**
 
 - Email: `your.email@example.com`
-- LinkedIn: [linkedin.com/in/mughal-abubakkar]((https://www.linkedin.com/in/mughal-abubakkar))
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- LinkedIn: LinkedIn: [linkedin.com/in/mughal-abubakkar]([https://linkedin.com/in/mughal-abubakkar](https://www.linkedin.com/in/mughal-abubakkar))
+- Portfolio: [code-xa]([https://yourwebsite.com](http://code-xa.web.app/))
 
