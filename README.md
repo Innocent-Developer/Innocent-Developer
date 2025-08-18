@@ -1,54 +1,78 @@
 <div align="center">
-  <img src="https://www.abubakkar.online/abubakkar.jpg" width="150" alt="Abubakkar Sajid's GitHub Profile Picture" style="border-radius: 100%; width=100px; hight:100px;" />
-  <h1>Hi there 👋, I'm Abubakkar Sajid</h1>
+
+  <!-- Profile Picture with shadow -->
+  <img 
+    src="https://www.abubakkar.online/abubakkar.jpg" 
+    alt="Abubakkar Sajid"
+    width="150"
+    style="border-radius: 50%; box-shadow: 0 4px 20px rgba(0,0,0,0.25);" 
+  />
+
+  <!-- Animated Typing Name (runs once, then stays) -->
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1500&color=00C4FF&center=true&vCenter=true&repeat=false&width=500&lines=Hi+there+👋;I'm+Abubakkar+Sajid" />
+  </h1>
+
   <h3>🚀 Full-Stack Developer | MERN Stack | Web App Specialist</h3>
 </div>
 
 ---
 
 <p align="center">
-I'm a passionate full-stack developer dedicated to building impactful and scalable web applications. My expertise lies in crafting seamless user experiences and robust back-end systems using the <strong>MERN</strong> stack. I am always eager to learn and implement new technologies to solve complex problems.
+✨ Passionate about building impactful & scalable apps. <br/>
+⚡ Crafting seamless UIs & robust backends. <br/>
+🌱 Always learning new technologies.  
 </p>
 
 ---
 
-
-
----
-
-## **🛠️ My Tech Stack**
-
-### **Front-End Development**
-- **Languages**: JavaScript, TypeScript
-- **Frameworks/Libraries**: React.js, Next.js
-- **State Management**: Redux Toolkit, Zustand
-- **Styling**: HTML5, CSS3, Tailwind CSS
-
-### **Back-End Development**
-- **Languages**: JavaScript
-- **Frameworks/Libraries**: Node.js, Express.js
-- **APIs**: RESTful APIs, WebSockets (Socket.IO)
-- **Authentication**: JWT
-
-### **Databases & Tools**
-- **Database**: MongoDB
-- **Version Control**: Git, GitHub
-- **Development Tools**: VS Code, Postman
-
----
-
-## **📈 My GitHub Stats**
+## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Innocent-Developer&show_icons=true&theme=radical&hide_border=true" alt="Abubakkar Sajid's GitHub Stats" />
+
+  <!-- Frontend Animated Icons -->
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind" height="60" alt="Frontend Tech" />  
+  <br/>
+
+  <!-- Backend Animated Icons -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,socketio" height="60" alt="Backend Tech" />  
+  <br/>
+
+  <!-- Database & Tools Animated Icons -->
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,postman,vscode" height="60" alt="Database & Tools" />  
+
+</p>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Innocent-Developer&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Innocent-Developer&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## **📬 Let's Connect!**
+## 📬 Connect with Me  
 
-Feel free to reach out to me for collaborations or just to say hi!
-
-- **Email**: `abubakkarsajid4@gmail.com`
-- **LinkedIn**: [linkedin.com/in/mughal-abubakkar](https://www.linkedin.com/in/mughal-abubakkar)
-- **Portfolio**: [abubakkar.online]("https://www.abubakkar.online/")
+<p align="center">
+  <a href="mailto:abubakkarsajid4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mughal-abubakkar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.abubakkar.online">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
