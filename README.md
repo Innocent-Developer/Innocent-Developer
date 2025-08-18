@@ -1,20 +1,27 @@
 <div align="center">
 
-  <!-- Profile Picture with shadow -->
-  <img 
-    src="https://www.abubakkar.online/abubakkar.jpg" 
-    alt="Abubakkar Sajid"
-    width="150"
-    style="border-radius: 50%; box-shadow: 0 4px 20px rgba(0,0,0,0.25);" 
-  />
+  <!-- Animated Profile Picture (Spinning Ring Glow) -->
+<img src="https://www.abubakkar.online/abubakkar.jpg" width="180" alt="Abubakkar Sajid" style="border-radius:50%;" />
 
-  <!-- Animated Typing Name (runs once, then stays) -->
+
+
+  <!-- Animated Typing Intro -->
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1500&color=00C4FF&center=true&vCenter=true&repeat=false&width=500&lines=Hi+there+👋;I'm+Abubakkar+Sajid" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1500&color=00C4FF&center=true&vCenter=true&repeat=false&width=600&lines=Hi+there+👋;I'm+Abubakkar+Sajid" alt="Typing Animation" />
   </h1>
 
-  <h3>🚀 Full-Stack Developer | MERN Stack | Web App Specialist</h3>
+  <!-- Waving Hand GIF -->
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" alt="Waving hand"/>
+
+  <!-- Animated Subtitle -->
+  <h3>
+    🚀 Full-Stack Developer | MERN Stack | Web App Specialist  
+    <br/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&color=FF6F61&width=500&lines=Crafting+Seamless+UIs;Building+Robust+Backends;Always+Learning+New+Tech" alt="Role Animation"/>
+  </h3>
+
 </div>
+
 
 ---
 
