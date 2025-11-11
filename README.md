@@ -15,7 +15,7 @@
 
   <!-- Animated Subtitle -->
   <h3>
-    🚀 Full-Stack Developer | MERN Stack | Web App Specialist  
+    🚀 Software Developer | MERN Stack | Web App Specialist  
     <br/>
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&color=FF6F61&width=500&lines=Crafting+Seamless+UIs;Building+Robust+Backends;Always+Learning+New+Tech" alt="Role Animation"/>
   </h3>
