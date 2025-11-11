@@ -1,9 +1,7 @@
 <div align="center">
 
   <!-- Animated Profile Picture (Spinning Ring Glow) -->
-<img src="https://www.abubakkar.online/abubakkar.jpg" width="180" alt="Abubakkar Sajid" style="border-radius:50%;" />
-
-
+  <img src="https://www.abubakkar.online/abubakkar.jpg" width="180" alt="Abubakkar Sajid" style="border-radius:50%;" />
 
   <!-- Animated Typing Intro -->
   <h1 align="center">
@@ -22,7 +20,6 @@
 
 </div>
 
-
 ---
 
 <p align="center">
@@ -37,16 +34,20 @@
 
 <p align="center">
 
-  <!-- Frontend Animated Icons -->
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind" height="60" alt="Frontend Tech" />  
+  <!-- 🌐 Frontend Animated Icons -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap" height="60" alt="Frontend Tech" />  
   <br/>
 
-  <!-- Backend Animated Icons -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,socketio" height="60" alt="Backend Tech" />  
+  <!-- ⚙️ Backend Animated Icons -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,socketio,php,python,fastapi" height="60" alt="Backend Tech" />  
   <br/>
 
-  <!-- Database & Tools Animated Icons -->
-  <img src="https://skillicons.dev/icons?i=mongodb,git,github,postman,vscode" height="60" alt="Database & Tools" />  
+  <!-- 🗄️ Database & Tools Animated Icons -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,postman,vscode,vercel,netlify" height="60" alt="Database & Tools" />  
+  <br/>
+
+  <!-- ☁️ Cloud & DevOps -->
+  <img src="https://skillicons.dev/icons?i=aws,heroku,docker" height="60" alt="Cloud & DevOps" />  
 
 </p>
 
@@ -54,7 +55,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
 
 ---
 
