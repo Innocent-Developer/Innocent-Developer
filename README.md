@@ -20,6 +20,8 @@
 
 </div>
 
+
+
 ---
 
 <p align="center">
@@ -70,6 +72,8 @@
 
 ---
 
+
+
 ## 📬 Connect with Me  
 
 <p align="center">
@@ -83,3 +87,9 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
+
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=Innocent-Developer&label=Profile%20Views&color=0ea5e9&style=flat" />
+
+</div>
