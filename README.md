@@ -16,6 +16,8 @@
 
 </div>
 
+</div>
+
 ---
 
 # 👨‍💻 About Me
@@ -25,22 +27,6 @@
 🌍 Building scalable APIs & real-time systems  
 ⚡ Experienced with microservices & distributed architecture  
 📚 Always learning new technologies  
-
----
-
-# 🌌 Developer Universe
-
-<div align="center">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
-</div>
-
----
-
-# 🧠 Coding in Action
-
-<div align="center">
-<img height="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-</div>
 
 ---
 
@@ -82,43 +68,40 @@ System Architecture
 
 ---
 
-# 📊 GitHub Analytics
+# 🤖 AI Developer Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Innocent-Developer&show_icons=true&theme=radical&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Innocent-Developer&theme=dracula"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Innocent-Developer&layout=compact&theme=radical&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Innocent-Developer&theme=dracula"/>
+
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 📊 GitHub Growth Analytics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Innocent-Developer&theme=radical&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Innocent-Developer&show_icons=true&theme=dracula&hide_border=true"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Innocent-Developer&theme=dracula"/>
+
 
 </div>
 
----
 
-# 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Innocent-Developer&theme=react-dark&hide_border=true&area=true"/>
-
-</div>
 
 ---
 
-# 🏆 GitHub Trophy Wall
+#  GitHub Activity Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Innocent-Developer&theme=radical&no-frame=true&no-bg=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Innocent-Developer&theme=react-dark&area=true&hide_border=true"/>
 
 </div>
 
@@ -134,72 +117,11 @@ System Architecture
 
 ---
 
-# 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Innocent-Developer/AI-Property-Analysis-Cost-Segregation-Platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Innocent-Developer&repo=AI-Property-Analysis-Cost-Segregation-Platform&theme=radical&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Innocent-Developer/minning-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Innocent-Developer&repo=minning-app&theme=radical&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Innocent-Developer/madadgaar-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Innocent-Developer&repo=madadgaar-app&theme=radical&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Innocent-Developer/chat-app-backend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Innocent-Developer&repo=chat-app-backend&theme=radical&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Madadgaar3377/backend-Nodejs-Express">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Madadgaar3377&repo=backend-Nodejs-Express&theme=radical&hide_border=true"/>
-</a>
-
-</div>
-
----
-
-# 🧩 Developer Badges
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Language-TypeScript-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Realtime-Socket.IO-purple?style=for-the-badge"/>
-
-</div>
-
----
-
-# 🛰️ 3D Contribution Cube
-
-<div align="center">
-<img src="https://github.com/yoshi389111/github-profile-3d-contrib/raw/main/profile-gitblock.svg" />
-</div>
-
----
-
 # 🌍 Global Visitors
 
 <div align="center">
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Innocent-Developer.Innocent-Developer"/>
-
-</div>
-
----
-
-# 🎮 3D GitHub Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Innocent-Developer&theme=react-dark&area=true&hide_border=true"/>
 
 </div>
 
