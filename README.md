@@ -28,12 +28,12 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Innocent-Developer&layout=compact&theme=dracula&hide_border=true"/>
+<!-- <img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Innocent-Developer&layout=compact&theme=dracula&hide_border=true"/> -->
 
 # 👨‍💻 About Me
 
 💻 Backend Software Developer
-🚀 Node.js / TypeScript / Python Specialist
+🚀 Node.js / TypeScript / php / Python Specialist
 🌍 Building scalable APIs & real-time systems
 ⚡ Experienced with microservices & distributed architecture
 📚 Always learning new technologies
