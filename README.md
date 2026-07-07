@@ -39,7 +39,7 @@ role:       Full Stack Developer · Backend Engineer · Mobile App Developer
 experience: 2+ Years
 available:  Freelance & Remote Work
 contact:    abubakkarsajid4@gmail.com · +92 324 185 1476
-portfolio:  https://abubakkar.online
+portfolio:  https://abubakkar.dev
 ```
 
 **What I do:**
