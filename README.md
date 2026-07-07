@@ -13,7 +13,7 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-abubakkarsajid4@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abubakkarsajid4@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-abubakkar.online-00C4FF?style=flat-square&logo=firefox&logoColor=white)](https://www.abubakkar.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-abubakkar.dev-00C4FF?style=flat-square&logo=firefox&logoColor=white)](https://www.abubakkar.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mughal--abubakkar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mughal-abubakkar/)
 [![GitHub](https://img.shields.io/badge/GitHub-Innocent--Developer-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Innocent-Developer/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+92%20324%201851476-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923241851476)
