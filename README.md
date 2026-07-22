@@ -1,206 +1,244 @@
+
 <div align="center">
 
-<!-- ═══════════════════════ ANIMATED HEADER ═══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  PROFESSIONAL HEADER — Apple/Google Inspired Aesthetic 2026   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,35:00C4FF,65:7B2FF7,100:0D1117&text=ABUBAKKAR%20SAJID&fontColor=ffffff&fontSize=50&fontAlignY=32&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20Mobile%20App%20Developer&descSize=18&descAlignY=54&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A0A0F,25:1A1A2E,50:16213E,75:0F3460,100:0A0A0F&text=ABUBAKKAR%20SAJID&fontColor=EAEAEA&fontSize=48&fontAlignY=34&desc=Full%20Stack%20Engineer%20%7C%20Backend%20Architect%20%7C%20AI%20Automation%20Specialist&descSize=16&descAlignY=56&animation=fadeIn&font=Fira%20Code" />
 
-<img src="https://www.abubakkar.online/abubakkar.jpg" width="140" />
+<br/>
+
+<!-- Profile Avatar with subtle glow -->
+<img src="https://www.abubakkar.dev/assets/profile.png" width="150" style="border-radius: 50%; border: 3px solid #0F3460; box-shadow: 0 0 30px rgba(15,52,96,0.4);" alt="Abubakkar Sajid — Full Stack Engineer" />
 
 <br/><br/>
 
-<!-- ═══ Typing animation ═══ -->
+<!-- ═══ Professional Typing Animation ═══ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=00C4FF&center=true&vCenter=true&width=720&lines=Full+Stack+Engineer+%7C+Node.js+%C2%B7+TypeScript+%C2%B7+Python;Architecting+Scalable+APIs+%26+Real-Time+Systems;React+Native+Mobile+Apps+%E2%80%94+iOS+%26+Android;AI+Automation+%C2%B7+RAG+Pipelines+%C2%B7+WhatsApp+AI+Agents;Open+to+Freelance+%26+Remote+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=20&duration=3000&pause=800&color=EAEAEA&center=true&vCenter=true&width=800&lines=Building+Scalable+APIs+%26+Real-Time+Systems;AI-Powered+Automation+%7C+RAG+Pipelines+%7C+LLM+Integrations;Cross-Platform+Mobile+Apps+%E2%80%94+iOS+%26+Android;Node.js+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+React+Native;Open+to+Freelance+%26+Remote+Engineering+Roles+%F0%9F%9A%80" alt="Professional typing animation" />
 </a>
 
 <br/><br/>
 
-<!-- ═══ Contact badges ═══ -->
-[![Email](https://img.shields.io/badge/Email-abubakkarsajid4@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abubakkarsajid4@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-abubakkar.dev-00C4FF?style=flat-square&logo=firefox&logoColor=white)](https://www.abubakkar.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mughal--abubakkar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mughal-abubakkar/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+92%20324%201851476-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923241851476)
-[![Instagram](https://img.shields.io/badge/Instagram-abubakkar.dev-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/abubakkar.dev/)
+<!-- ═══ Contact & Social Badges — Clean Minimal Style ═══ -->
+[![Email](https://img.shields.io/badge/Email-abubakkarsajid4@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=1A1A2E)](mailto:abubakkarsajid4@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-abubakkar.dev-4285F4?style=flat-square&logo=firefox&logoColor=white&labelColor=1A1A2E)](https://www.abubakkar.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mughal--abubakkar-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1A1A2E)](https://www.linkedin.com/in/mughal-abubakkar/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92%20324%201851476-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=1A1A2E)](https://wa.me/923241851476)
+[![Instagram](https://img.shields.io/badge/Instagram-abubakkar.dev-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=1A1A2E)](https://www.instagram.com/abubakkar.dev/)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Innocent-Developer&label=Profile+Views&color=00C4FF&style=flat-square)
-![Followers](https://img.shields.io/github/followers/Innocent-Developer?label=Followers&style=flat-square&color=7B2FF7)
-![Stars](https://img.shields.io/github/stars/Innocent-Developer?label=Stars&style=flat-square&color=00C4FF)
+<!-- ═══ Profile Metrics ═══ -->
+![Profile Views](https://komarev.com/ghpvc/?username=Innocent-Developer&label=Profile%20Views&color=4285F4&style=flat-square&labelColor=1A1A2E)
+![Followers](https://img.shields.io/github/followers/Innocent-Developer?label=Followers&style=flat-square&color=0F3460&labelColor=1A1A2E)
+![Stars](https://img.shields.io/github/stars/Innocent-Developer?label=Stars&style=flat-square&color=4285F4&labelColor=1A1A2E)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
 
-<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  DIVIDER — Subtle Separator                                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section divider" />
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  ABOUT ME — SEO Optimized, Keyword Rich                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 👨‍💻 About Me
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding animation" />
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Full stack developer coding animation" />
 
-I'm **Abubakkar Sajid** a Full Stack Engineer from **Lahore, Pakistan** who architects and ships production systems end-to-end: high-throughput REST APIs, real-time infrastructure, AI-powered automation, and cross-platform mobile apps.
+I'm **Abubakkar Sajid**, a **Full Stack Software Engineer** and **Backend Architect** based in **Lahore, Pakistan**, specializing in **scalable API development**, **real-time systems engineering**, **AI automation**, and **cross-platform mobile application development**.
 
-From schema design to VPS deployment, I own the full lifecycle and I've delivered backends powering fintech-style platforms, AI SaaS products, and consumer apps used in production today.
+With **4+ years of production experience** building **enterprise-grade web applications**, **fintech platforms**, **AI SaaS products**, and **consumer mobile apps**, I own the complete software development lifecycle—from **database schema design** and **REST API architecture** to **VPS deployment** and **DevOps automation**.
 
 ```yaml
 name:        Abubakkar Sajid
 location:    Lahore, Punjab, Pakistan
-roles:       [Full Stack Engineer, Backend Engineer, Mobile App Developer]
-experience:  4+ years building for web & mobile (since 2022)
-specialties: [Scalable APIs, Real-Time Systems, AI Automation, React Native]
-status:      Open to Freelance & Remote Opportunities 🚀
+roles:       [Full Stack Engineer, Backend Architect, Mobile App Developer, AI Automation Specialist]
+experience:  4+ years building production systems (since 2022)
+specialties: [Scalable REST APIs, Real-Time WebSocket Systems, AI LLM Integration, React Native Mobile Development, DevOps & Cloud Infrastructure]
+status:      Available for Freelance & Remote Engineering Opportunities 🚀
 contact:     abubakkarsajid4@gmail.com
 ```
 
 <br clear="right"/>
 
-### 🎯 What I Bring to the Table
+### 🎯 Core Engineering Competencies
 
-- 🏗️ **Backend Architecture** REST APIs, database schemas & services designed to stay fast under real production traffic
-- ⚡ **Real-Time Engineering** chat systems, live dashboards & event-driven flows with Socket.IO / WebSockets
-- 🤖 **AI Engineering** LLM integrations, RAG pipelines & WhatsApp AI agents shipped to production
-- 📱 **Mobile Development** cross-platform React Native apps delivered to iOS & Android
-- ☁️ **DevOps & Infrastructure** Docker, AWS, VPS hardening, CI/CD & zero-downtime deployments
-- 🔐 **Security-First Mindset** JWT auth, rate limiting, input validation & hardened production servers
+- 🏗️ **Backend Architecture & API Design** — High-throughput **REST APIs**, **microservices**, and **database schemas** engineered for production-scale traffic and reliability
+- ⚡ **Real-Time Systems Engineering** — **WebSocket** and **Socket.IO** implementations for live chat, dashboards, and event-driven architectures
+- 🤖 **AI & LLM Integration** — **RAG pipelines**, **WhatsApp AI agents**, **LLM API integrations**, and intelligent automation systems shipped to production
+- 📱 **Mobile Application Development** — **React Native** cross-platform apps deployed to **iOS App Store** and **Google Play Store**
+- ☁️ **DevOps & Cloud Infrastructure** — **Docker containerization**, **AWS cloud services**, **VPS hardening**, **CI/CD pipelines**, and zero-downtime deployments
+- 🔐 **Security-First Engineering** — **JWT authentication**, **rate limiting**, **input validation**, **SQL injection prevention**, and hardened production server configurations
 
-### ⚡ Currently Building
+### ⚡ Currently Engineering (2026)
 
-- 🟢 **[ForiSay](https://forisay.com/)** AI WhatsApp sales agent that auto-replies, captures & closes leads for Pakistani businesses
-- 🏠 **[Madadgaar](https://madadgaar.com.pk)** backend powering Pakistan's property, loans, installments & insurance platform
-- 🧪 **Triad Labz** product engineering across web, mobile & AI automation
+- 🟢 **[ForiSay](https://forisay.com/)** — **AI WhatsApp sales agent** with automated lead capture, intelligent replies, and conversion optimization for Pakistani businesses
+- 🏠 **[Madadgaar](https://madadgaar.com.pk)** — Full **backend architecture** for Pakistan's leading property, loans, installments & insurance platform
+- 🧪 **Triad Labz** — End-to-end **product engineering** across web, mobile, and AI automation verticals
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
 
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  TECH STACK — Organized by Domain (2026 Trend)                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🛠️ Tech Arsenal
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,php,nodejs,express,fastapi,django,react,nextjs,tailwind,bootstrap,mongodb,mysql,postgres,docker,aws,linux,vercel,netlify,git,postman,figma&perline=8" alt="Tech stack icons" />
+<!-- Primary Languages & Frameworks -->
+<img src="https://skillicons.dev/icons?i=ts,js,py,php,nodejs,express,fastapi,django,react,nextjs,tailwind,bootstrap,mongodb,mysql,postgres,docker,aws,linux,vercel,netlify,git,postman,figma&perline=8" alt="Full stack development tech stack: TypeScript, JavaScript, Python, PHP, Node.js, Express, FastAPI, Django, React, Next.js, Tailwind CSS, Bootstrap, MongoDB, MySQL, PostgreSQL, Docker, AWS, Linux, Vercel, Netlify, Git, Postman, Figma" />
 
 <br/><br/>
 
-**Also fluent in:**
+**Specialized Technologies & Protocols:**
 
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-7B2FF7?style=flat-square&logo=websocket&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT%20Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API%20Design-00C4FF?style=flat-square&logo=fastapi&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n%20Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20%2F%20LLM%20APIs-7B2FF7?style=flat-square&logo=openai&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white&labelColor=1A1A2E)
+![WebSockets](https://img.shields.io/badge/WebSockets-4285F4?style=flat-square&logo=websocket&logoColor=white&labelColor=1A1A2E)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1A1A2E)
+![JWT Auth](https://img.shields.io/badge/JWT%20Authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=1A1A2E)
+![REST API Design](https://img.shields.io/badge/REST%20API%20Architecture-4285F4?style=flat-square&logo=fastapi&logoColor=white&labelColor=1A1A2E)
+![n8n Automation](https://img.shields.io/badge/n8n%20Workflow%20Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white&labelColor=1A1A2E)
+![RAG LLM](https://img.shields.io/badge/RAG%20%2F%20LLM%20APIs-0F3460?style=flat-square&logo=openai&logoColor=white&labelColor=1A1A2E)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=1A1A2E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=1A1A2E)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- ═══════════════════════ EXPERIENCE ═══════════════════════ -->
-
-## 💼 Professional Journey
-
-### 🟣 Product Developer **Triad Labz**
-`May 2026 – Present` · Lahore, Pakistan (Hybrid)
-
-Turning complex product concepts into robust, scalable systems across web and mobile.
-- Architect & ship backend services and APIs powering agency products
-- Build cross-platform mobile applications with React Native (iOS & Android)
-- Own end-to-end delivery: system design → development → deployment
-
-### 🔵 Backend Developer **Madadgaar.com.pk**
-`Nov 2025 – Present` · Remote
-
-Backend engineer for Pakistan's property, loans, installment plans & insurance platform.
-- Built and maintain **every backend API** powering the platform
-- Full VPS ownership deployment, monitoring, optimization & uptime
-- Designed database schemas with security best practices baked in
-- Partner with the frontend team for seamless API integration
-
-### 🟢 Backend Developer **EchoRead (Private) Ltd**
-`Jul 2025 – Jan 2026` · Lahore, Pakistan (Hybrid)
-
-Backend for an online book-reading platform + companion mobile app.
-- Node.js · Express · TypeScript · MongoDB stack
-- RESTful API architecture and database design
-
-<details>
-<summary><b>📜 Earlier Experience</b> <i>(click to expand)</i></summary>
 <br/>
 
-### ⚪ Full Stack Developer **Onestwork Technologies**
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  EXPERIENCE — Professional Journey (SEO Rich)                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 💼 Professional Engineering Journey
+
+### 🟣 Product Developer — **Triad Labz**
+`May 2026 – Present` · Lahore, Pakistan (Hybrid)
+
+Transforming complex product concepts into robust, scalable software systems across **web application development** and **mobile application development**.
+- Architect and ship **backend services** and **REST APIs** powering agency product portfolios
+- Build **cross-platform mobile applications** with **React Native** for **iOS** and **Android**
+- Own end-to-end delivery: **system design → development → CI/CD deployment**
+
+### 🔵 Backend Developer — **Madadgaar.com.pk**
+`Nov 2025 – Present` · Remote
+
+Lead **backend engineer** for Pakistan's premier property, loans, installment plans & insurance platform.
+- Built and maintain **100% of backend APIs** powering the platform's core operations
+- Full **VPS ownership**: deployment, server monitoring, performance optimization & 99.9% uptime
+- Designed **secure database schemas** with **encryption**, **indexing**, and **backup strategies**
+- Collaborate with frontend teams for seamless **API integration** and **documentation**
+
+### 🟢 Backend Developer — **EchoRead (Private) Ltd**
+`Jul 2025 – Jan 2026` · Lahore, Pakistan (Hybrid)
+
+Backend engineering for an **online book-reading platform** and companion **mobile application**.
+- **Node.js · Express · TypeScript · MongoDB** stack
+- **RESTful API architecture** and **NoSQL database design**
+- **Authentication systems** and **content delivery optimization**
+
+<details>
+<summary><b>📜 Earlier Engineering Experience</b> <i>(click to expand)</i></summary>
+<br/>
+
+### ⚪ Full Stack Developer — **Onestwork Technologies**
 `May 2023 – Jun 2024` · Lahore, Pakistan
 
-- React.js frontends + Node.js backends across production applications
-- Delivered client projects with clean, maintainable architecture
+- **React.js frontend development** + **Node.js backend development** across production client applications
+- Delivered projects with **clean architecture**, **component reusability**, and **maintainable codebases**
 
-### ⚪ Frontend Developer Intern **Jalsonic Networks**
+### ⚪ Frontend Developer Intern — **Jalsonic Networks**
 `Apr 2022 – Mar 2023` · Lahore, Pakistan (On-site)
 
-- React.js, UX principles, and production-ready UI development
+- **React.js development**, **UX principles**, and **production-ready UI engineering**
+- Learned **component-based architecture** and **state management patterns**
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
 
-<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  FEATURED PROJECTS — SEO Optimized Table                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects & Production Systems
 
-| Project | What It Does | Stack | Type | Links |
-|---------|--------------|-------|------|-------|
-| 🔥 **ForiSay** | AI WhatsApp sales agent automated replies, lead capture & a closing engine built for Pakistani businesses | Node.js · Express · MongoDB · Python · RAG · LLMs | Backend / AI | [Live ↗](https://forisay.com/) |
-| 🔥 **Madadgaar** | Property, loans, installments & insurance platform full backend + infrastructure | Node.js · Express · MongoDB · VPS | Backend | [Live ↗](https://madadgaar.com.pk) |
-| **API Test Lab** | API testing platform for developers | Python · FastAPI · MongoDB · Next.js | Full Stack | [Live ↗](https://apitestlab.org) |
-| **EchoRead** | Online book-reading platform + companion mobile app | Node.js · TypeScript · MongoDB · React Native | Mobile + Backend | [Live ↗](https://echoread.online/) |
-| **AUS Networks** | Crypto mining dashboard with live stats | React · Node.js · MongoDB · REST API | Full Stack | [Live ↗](https://aus-networks.vercel.app/) |
-| **Watch2Earn** | Watch-to-earn rewards application | Next.js · TypeScript · Python · Vercel | Full Stack | [Live ↗](https://watch2-earn-next-js.vercel.app/) |
-| **Chat App Backend** | Real-time messaging server with secure auth | TypeScript · Node.js · JWT · WebSocket | Backend | [GitHub ↗](https://github.com/Innocent-Developer/chat-app-backend) |
-| **Codexac** | Crypto mining backend engine | Node.js · TypeScript · MongoDB | Backend | [GitHub ↗](https://github.com/Innocent-Developer/codexac-backend) |
-| **Fun Chat Party** | Browser-based chat platform | HTML · CSS · JavaScript | Frontend | [Live ↗](https://www.funchatparty.online/) |
+| Project | Description | Tech Stack | Type | Live Links |
+|---------|-------------|------------|------|------------|
+| 🔥 **ForiSay** | **AI WhatsApp sales agent** — Automated replies, intelligent lead capture & conversion engine for Pakistani SMEs | `Node.js` `Express` `MongoDB` `Python` `RAG` `LLMs` | Backend / AI Automation | [Live ↗](https://forisay.com/) |
+| 🔥 **Madadgaar** | Property, loans, installments & insurance platform — Full **backend architecture** + **VPS infrastructure** | `Node.js` `Express` `MongoDB` `VPS` `Linux` | Backend / Infrastructure | [Live ↗](https://madadgaar.com.pk) |
+| **API Test Lab** | **API testing platform** for developers — Automated endpoint validation & documentation | `Python` `FastAPI` `MongoDB` `Next.js` | Full Stack | [Live ↗](https://apitestlab.org) |
+| **EchoRead** | **Online book-reading platform** + companion **React Native mobile app** | `Node.js` `TypeScript` `MongoDB` `React Native` | Mobile + Backend | [Live ↗](https://echoread.online/) |
+| **AUS Networks** | **Crypto mining dashboard** with real-time live statistics & analytics | `React` `Node.js` `MongoDB` `REST API` | Full Stack | [Live ↗](https://aus-networks.vercel.app/) |
+| **Watch2Earn** | **Watch-to-earn rewards application** with gamified engagement | `Next.js` `TypeScript` `Python` `Vercel` | Full Stack | [Live ↗](https://watch2-earn-next-js.vercel.app/) |
+| **Chat App Backend** | **Real-time messaging server** with secure JWT authentication | `TypeScript` `Node.js` `JWT` `WebSocket` | Backend | [GitHub ↗](https://github.com/Innocent-Developer/chat-app-backend) |
+| **Codexac** | **Crypto mining backend engine** with automated reward distribution | `Node.js` `TypeScript` `MongoDB` | Backend | [GitHub ↗](https://github.com/Innocent-Developer/codexac-backend) |
+| **Fun Chat Party** | **Browser-based real-time chat platform** | `HTML` `CSS` `JavaScript` `Socket.IO` | Frontend | [Live ↗](https://www.funchatparty.online/) |
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
 
-<!-- ═══════════════════════ GITHUB ANALYTICS ═══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  GITHUB ANALYTICS — Clean Data Visualization                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Engineering Metrics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Innocent-Developer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&ring_color=00C4FF" alt="GitHub stats" />
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=Innocent-Developer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&ring_color=4285F4&title_color=EAEAEA&icon_color=4285F4&text_color=B4B4B4&bg_color=0A0A0F" alt="GitHub statistics and contribution metrics" />
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Innocent-Developer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Innocent-Developer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=EAEAEA&text_color=B4B4B4&bg_color=0A0A0F" alt="Top programming languages used" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Innocent-Developer&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=Innocent-Developer&theme=tokyonight&hide_border=true&background=0A0A0F&ring=4285F4&fire=4285F4&currStreakLabel=EAEAEA&sideLabels=B4B4B4&currStreakNum=4285F4&sideNums=B4B4B4" alt="GitHub contribution streak" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Innocent-Developer&theme=tokyo-night&area=true&hide_border=true&radius=8" alt="Contribution graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Innocent-Developer&theme=tokyo-night&area=true&hide_border=true&radius=8&bg_color=0A0A0F&color=4285F4&line=0F3460&point=4285F4" alt="GitHub contribution activity graph" />
 
 </div>
 
-<!-- ═══════════════════════ SNAKE ANIMATION ═══════════════════════ -->
+<br/>
 
-## 🐍 Contribution Snake
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  CONTRIBUTION SNAKE — Animated Visualization                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🐍 Contribution Visualization
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Innocent-Developer/Innocent-Developer/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Innocent-Developer/Innocent-Developer/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Innocent-Developer/Innocent-Developer/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Innocent-Developer/Innocent-Developer/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
-<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
+<br/>
 
-## 🏆 GitHub Trophies
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  GITHUB TROPHIES — Achievement Showcase                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🏆 GitHub Achievements & Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Innocent-Developer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Innocent-Developer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&title_color=EAEAEA&icon_color=4285F4&text_color=B4B4B4" alt="GitHub profile trophies and achievements" />
 
 </div>
 
@@ -208,36 +246,40 @@ Backend for an online book-reading platform + companion mobile app.
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer inspiration quote" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
 
-<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  CONNECT — Professional Contact & CTA                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🤝 Let's Connect
+## 🤝 Let's Build Something Great
 
 <div align="center">
 
-💬 **Have a project in mind? My inbox is always open let's build something great.**
+💬 **Have a project idea? My inbox is always open. Let's architect and ship production-grade software together.**
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abubakkarsajid4@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C4FF?style=for-the-badge&logo=firefox&logoColor=white)](https://www.abubakkar.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mughal-abubakkar/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923241851476)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abubakkar.dev/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/devabubakkarsajid)
-[![Download CV](https://img.shields.io/badge/Download%20CV-7B2FF7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.abubakkar.online/Abubakkar.pdf)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A2E)](mailto:abubakkarsajid4@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1A1A2E)](https://www.abubakkar.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A2E)](https://www.linkedin.com/in/mughal-abubakkar/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1A1A2E)](https://wa.me/923241851476)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1A1A2E)](https://www.instagram.com/abubakkar.dev/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1A1A2E)](https://www.facebook.com/devabubakkarsajid)
+[![Download CV](https://img.shields.io/badge/Download%20CV-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=1A1A2E)](https://www.abubakkar.online/Abubakkar.pdf)
 
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=1200&color=00C4FF&center=true&vCenter=true&width=620&lines=Thanks+for+visiting!+Let's+build+something+great+%F0%9F%9A%80;Open+to+freelance+%26+remote+opportunities+worldwide" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=16&duration=2600&pause=1200&color=EAEAEA&center=true&vCenter=true&width=640&lines=Thanks+for+visiting!+Let's+ship+production-grade+systems+%F0%9F%9A%80;Available+for+freelance+%26+remote+engineering+worldwide" alt="Professional closing message" />
 </a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:7B2FF7,50:00C4FF,100:0D1117&section=footer" />
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0F3460,50:4285F4,100:0A0A0F&section=footer" />
 
 </div>
